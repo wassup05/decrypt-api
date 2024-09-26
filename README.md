@@ -27,6 +27,6 @@ Start the server with:
 go run .
 ```
 
-and the web service will be available on `https:/localhost:<PORT>`
+and the web service will be available on `http://localhost:<PORT>`
 
 ---
