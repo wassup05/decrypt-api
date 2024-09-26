@@ -19,6 +19,7 @@ Optionally create a `.env` file with the following contents:
 ```env
 PORT=<Integer>
 ```
+`cd` into the `src` folder and
 
 Start the server with:
 
