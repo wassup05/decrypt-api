@@ -14,11 +14,13 @@ For instructions on how to use the API, view the docs at
 
 Clone the repository and `cd` into it
 
-Optionally create a `.env` file with the following contents:
+Optionally edit the `.env` file with the following contents:
 
 ```env
 PORT=<Integer>
+GIN_MODE=release (or debug)
 ```
+
 `cd` into the `src` folder and
 
 Start the server with:
